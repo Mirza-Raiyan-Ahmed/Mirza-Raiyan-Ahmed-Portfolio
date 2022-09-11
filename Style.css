@@ -1,6 +1,11 @@
+head{
+
+    <link rel="icon" type="image/x-icon" href="Logo.jpg">
+}
 body{
 
     font-family: 'Sacramento', cursive;
+    background-color: #FF9677;
 }
 
 .header1{
@@ -10,3 +15,7 @@ body{
 
     color: #98dad9
 }
+
+
+    
+    
