@@ -1,17 +1,16 @@
-head{
+
+body{
+    font-family: 'Open Sans', sans-serif;
 
     
-}
-body{
 
-    font-family: 'Sacramento', cursive;
-    background-color: #4169e1;
 }
 
 .header1{
     font-size: 50px;
 }
 .Name-Color{
+
 
     color: #98dad9
 }
@@ -21,9 +20,48 @@ body{
 }
 .intro paragraph{
 
-    
+    font-size: 12px;
+
 }
 
+section{
 
+    display: flex;
+}
+.half-width{
+    width=50%;
+    padding-left:6%;
+
+
+}
+
+.half-width img{
+
+    width: 320px;
+    height: 500px;
+    padding-right: 200%;
+    
+    
+
+
+}
+.Link-button{
+
+    text-decoration: none;
+    
+    background-image:linear-gradient(to bottom right,pink, purple) ;
+    padding: 10px 5px;
+    border-radius: 10px ;
+}
+
+.Mail-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(to top right ,Green, yellow);
+    padding: 10px 5px;
+    border-radius: 2px ;
+    
+
+}
     
     
