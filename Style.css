@@ -1,19 +1,23 @@
 head{
 
-    <link rel="icon" type="image/x-icon" href="Logo.jpg">
+    
 }
 body{
 
     font-family: 'Sacramento', cursive;
-    background-color: #FF9677;
+    background-color: #4169e1;
 }
 
 .header1{
-    font-size: 100px;
+    font-size: 50px;
 }
 .Name-Color{
 
     color: #98dad9
+}
+.header3{
+
+    font-size: 30px;
 }
 
 
