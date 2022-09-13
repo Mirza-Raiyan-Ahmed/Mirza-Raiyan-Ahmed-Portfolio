@@ -1,67 +1,47 @@
+{
 
-body{
+    padding: 0;
+    margin:0;
     font-family: 'Open Sans', sans-serif;
-
-    
-
-}
-
-.header1{
-    font-size: 50px;
-}
-.Name-Color{
-
-
-    color: #98dad9
-}
-.header3{
-
-    font-size: 30px;
-}
-.intro paragraph{
-
-    font-size: 12px;
+    box-sizing: border-box;
 
 }
+.One{
 
-section{
+    height: 100vh;
+    width:100%;
+    background-image: url(../Photos/DSC_0213.JPG);
+    background-size: cover;
+    background-position: center;
+}
+nav{
 
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 8%;
+    padding-right: 8%;
 }
-.half-width{
-    width=50%;
-    padding-left:6%;
+.Top Logo{
+    color: azure;
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
 
-
-}
-
-.half-width img{
-
-    width: 320px;
-    height: 500px;
-    padding-right: 200%;
-    
-    
 
 
 }
-.Link-button{
+.Name-Color{
+    color: #f9004d;
+}
+.Two{
 
-    text-decoration: none;
-    
-    background-image:linear-gradient(to bottom right,pink, purple) ;
-    padding: 10px 5px;
-    border-radius: 10px ;
+    color: chocolate;
+}
+nav ul li{
+
+    display:inline-block;
+    list-style-type:none;
 }
 
-.Mail-button{
-
-    text-decoration: none;
-    background-image: linear-gradient(to top right ,Green, yellow);
-    padding: 10px 5px;
-    border-radius: 2px ;
-    
-
-}
-    
-    
