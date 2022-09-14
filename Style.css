@@ -47,7 +47,7 @@ nav ul li{
 
 }
 nav ul li a{
-    color: black;
+    color:white;
     text-decoration: none;
     font-weight: 900;
     text-transform: capitalize;
@@ -74,4 +74,34 @@ nav ul li a:hover{
     transform: scale(1.5);
     
 }
+.Contents{
+    position: absolute;
+    top:50%;
+    left:10%;
+    transform: translateY(-50%);
+}
+h1{
+
+    color: white;
+    margin:  20px 0px 20px;
+    font-size: 40px;
+}
+
+h5{
+    color: white;
+    margin: 5px 0px 5px;
+    font-size: 15px;
+    margin-bottom: 5px;
+
+
+
+}
+h4{
+    color:white;
+    margin: 20px 0px 5px;
+    font-size: 25px;
+}
+
+
+
 
