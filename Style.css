@@ -102,6 +102,25 @@ h4{
     font-size: 25px;
 }
 
+.newsletter form{
+
+    width:350px;
+    max-width: 100%;
+    position: relative;
+}
+.newsletter form input:first-child{
+    width: 15px;
+    display: inline-block;
+    padding: .5px 130px 15px 10px;
+    border: 2px solid white;
+    outline: none;
+    border-radius: 15px;
+    
+}
+.newsletter form input:first-child:hover{
+
+    transform: scale(1.2);
+}
 
 
 
